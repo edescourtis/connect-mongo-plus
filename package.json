@@ -1,0 +1,18 @@
+{
+  "name": "connect-mongo-plus",
+  "version": "1.0.0",
+  "description": "MongoDB session store for Connect with support for replica sets",
+  "keywords": ["connect", "mongo", "mongodb", "session", "express"],
+  "author": "Eric des Courtis <eric.des.courtis@benbria.ca>",
+  "dependencies": {
+    "mongodb": "1.0.x"
+  },
+  "devDependencies": {
+    "mocha": "1.x",
+    "connect": ">= 1.x",
+    "mongoose": ">= 2.6.x"
+  },
+  "scripts" : { "test": "make test" },
+  "main": "index",
+  "engines": "node >= 0.4.x"
+}
