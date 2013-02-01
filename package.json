@@ -5,7 +5,7 @@
   "keywords": ["connect", "mongo", "mongodb", "session", "express"],
   "author": "Eric des Courtis <eric.des.courtis@benbria.ca>",
   "dependencies": {
-    "mongodb": "1.0.x"
+    "mongodb": "1.2.x"
   },
   "devDependencies": {
     "mocha": "1.x",
